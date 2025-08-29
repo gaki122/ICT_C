@@ -9,3 +9,20 @@ a {
 #highlight{
     background-color:yellowgreen;
 }
+
+    table,
+       th,
+       td {
+           border: 1px solid black;
+           border-collapse: collapse;
+         
+       }
+
+
+      form {
+           width: 40%;
+           background-color: whitesmoke;
+           padding: 20px;
+           border-radius: 8px; /* Rounded corners for the form */
+       }
+
